@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction", "Abstraction\Abstraction.csproj", "{11AFB7A2-C345-4358-A464-BB2A9AEF798C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Params", "Params\Params.csproj", "{155E68BF-83E0-41F1-802C-361F99F3610F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{11AFB7A2-C345-4358-A464-BB2A9AEF798C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11AFB7A2-C345-4358-A464-BB2A9AEF798C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11AFB7A2-C345-4358-A464-BB2A9AEF798C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{155E68BF-83E0-41F1-802C-361F99F3610F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{155E68BF-83E0-41F1-802C-361F99F3610F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{155E68BF-83E0-41F1-802C-361F99F3610F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{155E68BF-83E0-41F1-802C-361F99F3610F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
