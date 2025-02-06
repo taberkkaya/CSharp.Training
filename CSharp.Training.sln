@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Params", "Params\Params.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ref", "Ref\Ref.csproj", "{CFB33743-B65D-469F-9098-3AB7BDB2B854}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Out_Keyword", "Out_Keyword\Out_Keyword.csproj", "{523A5319-0881-4E6C-AAF0-BA1E0CEEB837}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,6 +46,10 @@ Global
 		{CFB33743-B65D-469F-9098-3AB7BDB2B854}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFB33743-B65D-469F-9098-3AB7BDB2B854}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFB33743-B65D-469F-9098-3AB7BDB2B854}.Release|Any CPU.Build.0 = Release|Any CPU
+		{523A5319-0881-4E6C-AAF0-BA1E0CEEB837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{523A5319-0881-4E6C-AAF0-BA1E0CEEB837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{523A5319-0881-4E6C-AAF0-BA1E0CEEB837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{523A5319-0881-4E6C-AAF0-BA1E0CEEB837}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
