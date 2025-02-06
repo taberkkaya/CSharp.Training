@@ -14,7 +14,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Params", "Params\Params.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ref", "Ref\Ref.csproj", "{CFB33743-B65D-469F-9098-3AB7BDB2B854}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Out", "Out\Out.csproj", "{77895C58-1C32-4C39-96D1-D18D8DB201C1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Out_Methods", "Out\Out_Methods.csproj", "{77895C58-1C32-4C39-96D1-D18D8DB201C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
